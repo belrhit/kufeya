@@ -35,21 +35,21 @@ export const Footer = () => {
               ❤️ {t("footerText")} 🇵🇸
             </p>
           </div>
-          
           <div className="text-sm text-muted-foreground/80 text-center">
-  <p>© 2025 Kuffeya. All rights reserved.</p>
   <p>
-    Created by {"AYMAN BELRHIT "}
+    © 2025 Palestinian Keffiyeh. All rights reserved. — Created by{" "}
     <a
-      href="aymanwebgenius.space"
-      target="_blank"
-      rel="noopener noreferrer"
-      className="text-blue-500 hover:underline"
-    >
-      aymanwebgenius.space
-    </a>
+  href="https://aymanwebgenius.space"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="text-blue-500 hover:underline"
+>
+  AYMAN BELRHIT
+</a>
+
   </p>
 </div>
+
   </div>
       </div>
     </footer>
