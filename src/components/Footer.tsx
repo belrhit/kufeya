@@ -36,10 +36,21 @@ export const Footer = () => {
             </p>
           </div>
           
-          <div className="text-sm text-muted-foreground/80">
-            <p>© 2025 Palestinian Keffiyeh. All rights reserved.</p>
-          </div>
-        </div>
+          <div className="text-sm text-muted-foreground/80 text-center">
+  <p>© 2025 Kuffeya. All rights reserved.</p>
+  <p>
+    Created by {"AYMAN BELRHIT "}
+    <a
+      href="aymanwebgenius.space"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="text-blue-500 hover:underline"
+    >
+      aymanwebgenius.space
+    </a>
+  </p>
+</div>
+  </div>
       </div>
     </footer>
   );
